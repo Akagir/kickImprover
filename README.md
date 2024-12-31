@@ -1,5 +1,5 @@
 # kickImprover
-An extension to improve your Kick.com experiment.
+An extension to improve your Kick.com experience.
 
 It just adds border by priority to the messages in the chat.
 Every badge has its own color that taken from itself;
